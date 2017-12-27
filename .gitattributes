@@ -1,1 +1,2 @@
 File.txt filter=lfs diff=lfs merge=lfs -text
+File1.png filter=lfs diff=lfs merge=lfs -text

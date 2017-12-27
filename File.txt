@@ -1,2 +1,0 @@
-This changes was created in master branch.
-Now i will try merge two remote branch for this i create new bracnh and do some changes in them. After this i will merge master branch with new branch.
